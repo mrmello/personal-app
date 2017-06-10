@@ -1,1 +1,1 @@
-web: node /airhorn/app/index.html
+web: node index.js
