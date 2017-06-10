@@ -5,7 +5,10 @@
   "engines": {
     "node": "6.10.2"
   },
-  "devDependencies": {
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
     "browser-sync": "^2.7.13",
     "del": "^1.2.0",
     "ejs": "2.5.6",
